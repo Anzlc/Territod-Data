@@ -2,13 +2,13 @@
     {
         "title" : "Test #1",
         "description" : "Just a test.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales ut etiam sit amet nisl purus in mollis.",
-        "article-url" : "https://github.com/Anzlc/",
+        "url" : "https://github.com/Anzlc/",
         "date" : "10.6.2022 17:00:00"
     },
     {
         "title" : "Test #2",
         "description" : "Just a test.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales ut etiam sit amet nisl purus in mollis.",
-        "article-url" : "https://github.com/Anzlc/",
+        "url" : "https://github.com/Anzlc/",
         "date" : "10.6.2022 16:00:00"
     }
 ]
