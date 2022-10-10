@@ -1,14 +1,8 @@
 [
     {
-        "title" : "Test #1",
-        "description" : "Just a test.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales ut etiam sit amet nisl purus in mollis.",
-        "url" : "https://github.com/Anzlc/",
-        "date" : "10.6.2022 17:00:00"
-    },
-    {
-        "title" : "Test #2",
-        "description" : "Just a simple test for new Territod launcher. LOL :) #3",
-        "url" : "https://github.com/Anzlc/",
-        "date" : "10.6.2022 16:00:00"
+        "title" : "New Launcher",
+        "description" : "Released new Territod launcher. If you find any bugs report them in Territod Discord server.",
+        "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/newLauncher.txt",
+        "date" : "10.10.2022 20:00"
     }
 ]
