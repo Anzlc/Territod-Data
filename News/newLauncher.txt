@@ -1,0 +1,1 @@
+New launcher for Territod. Built with Javascript and Electron.
