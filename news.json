@@ -1,5 +1,11 @@
 [
     {
+        "title" : "0.0.2",
+        "description" : "Published Alpha v2. Expect playtest soon.",
+        "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/alphav2.txt",
+        "date" : "31.10.2022 14:40"
+    },
+    {
         "title" : "New Launcher",
         "description" : "Released new Territod launcher. If you find any bugs report them in Territod Discord server.",
         "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/newLauncher.txt",
