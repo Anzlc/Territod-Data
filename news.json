@@ -1,5 +1,11 @@
 [
     {
+        "title" : "Version 0.0.4",
+        "description" : "Published Alpha v4.",
+        "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/alphav4.txt",
+        "date" : "8.11.2022 18:13"
+    },
+    {
         "title" : "Version 0.0.3",
         "description" : "Published Alpha v3.",
         "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/alphav3.txt",
