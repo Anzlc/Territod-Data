@@ -1,7 +1,13 @@
 [
     {
+        "title" : "Version 0.0.6",
+        "description" : "Published Alpha v6. Fixed some bugs, gun changes.",
+        "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/alphav6.txt",
+        "date" : "8.11.2022 18:13"
+    },
+    {
         "title" : "Version 0.0.5",
-        "description" : "Published Alpha v4. Now we have drones in Territod.",
+        "description" : "Published Alpha v5. Now we have drones in Territod.",
         "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/alphav5.txt",
         "date" : "8.11.2022 18:13"
     },
