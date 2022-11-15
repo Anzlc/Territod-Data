@@ -49,7 +49,7 @@ If you defuse enemy respawner the enemy team can't respawn anymore.
 To defuse enemy respawner buy defuser in buy menu(Varius/Defuser)
 Once you are at enemy respawner hold **E**.
 When you defuse respawner you will hear shutdown sound and see info text.
-##Drone
+## Drone
 You can place drone by clicking the **C** key. You will see hologram where the drone will be placed. Place the drone by clicking the **Left mouse button**. Pick up the drone by clicking **E**. 
 ## Respawning
 If you die and your team respawner haven't been defused yet you will respawn. You first need to wait 10 seconds and then you will see text whick inidcates that you can exit plane. Then you can open parachute by pressing the **G** key on your keyboard.
