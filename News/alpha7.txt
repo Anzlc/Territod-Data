@@ -1,0 +1,3 @@
+Alpha v7
+
+Added rebinds for drone movement, added screen shake and ripple effect. New drone sound effects.

@@ -1,5 +1,11 @@
 [
     {
+        "title" : "Version 0.0.7",
+        "description" : "Published Alpha v7. Fixed drone bugs, added drone SFX, added rebinds for drone. Improved feel.",
+        "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/alphav7.txt",
+        "date" : "8.11.2022 18:13"
+    },
+    {
         "title" : "Version 0.0.6",
         "description" : "Published Alpha v6. Fixed some bugs, gun changes.",
         "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/alphav6.txt",
