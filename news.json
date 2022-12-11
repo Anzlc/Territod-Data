@@ -1,5 +1,11 @@
 [
     {
+        "title" : "Version 0.1.1",
+        "description" : "Fixed some bugs. Improved feel.",
+        "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/version0-1-1.txt",
+        "date" : "11.12.2022 18:13"
+    },
+    {
         "title" : "Version 0.1.0",
         "description" : "Fixed a bug.",
         "url" : "https://github.com/Anzlc/Territod-Data/blob/main/News/alphav9.txt",
