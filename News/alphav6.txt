@@ -1,3 +1,0 @@
-Alpha v6
-
-Fixed some bugs with drone, changed gun FOV.

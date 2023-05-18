@@ -1,3 +1,0 @@
-Beta v1
-
-Added RPG, fixed some bugs.

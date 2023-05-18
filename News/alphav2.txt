@@ -1,2 +1,0 @@
-Alpha v2
-New alpha version. Should be installed automatically when you open new Territod launcher. Expect playtest soon! More news in Territod discord server.

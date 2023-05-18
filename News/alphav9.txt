@@ -1,3 +1,0 @@
-Alpha v9
-
-Fixed blur bug.

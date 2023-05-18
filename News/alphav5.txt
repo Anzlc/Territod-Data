@@ -1,3 +1,0 @@
-Alpha v5
-
-Added drones, changed menus, fixed some parachute oreder issues.
